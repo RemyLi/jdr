@@ -1,0 +1,2 @@
+# jdr
+JDR data manager
